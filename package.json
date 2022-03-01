@@ -1,0 +1,12 @@
+{
+  "name": "selenium-criptografador",
+  "version": "1.0.0",
+  "description": "Criptofragador",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js" ,
+    "dev": "nodemon index.js"
+  },
+  "author": "Carlos Kauan Brito Monteiro",
+  "license": "ISC"
+}
