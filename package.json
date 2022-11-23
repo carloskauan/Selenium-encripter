@@ -7,6 +7,6 @@
     "test": "node index.js" ,
     "dev": "nodemon index.js"
   },
-  "author": "Erica Madelyne",
+  "author": "Carlos Kauan",
   "license": "ISC"
 }
