@@ -7,6 +7,6 @@
     "test": "node index.js" ,
     "dev": "nodemon index.js"
   },
-  "author": "Carlos Kauan Brito Monteiro",
+  "author": "Erica Madelyne",
   "license": "ISC"
 }
